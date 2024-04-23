@@ -33,3 +33,6 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+#ignored notes.md
+notes.md
